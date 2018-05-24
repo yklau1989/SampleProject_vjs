@@ -1,8 +1,8 @@
-# demo-app
+# SampleProject_vjs
 
-> A Vue.js project
+Simple Project using Vuetify
 
-## Build Setup
+## Build Setup (From vue Official)
 
 ``` bash
 # install dependencies
@@ -18,4 +18,22 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## How I start this project
+
+```
+npm install --global vue-cli
+vue init vuetifyjs/webpack demo-app
+npm install --save axios vue-axios
+cd demo-app
+npm run dev
+```
+
+## Feature used
+
+Vuetify
+
+Routing
+
+v-dialog
+
+API calling by axios
