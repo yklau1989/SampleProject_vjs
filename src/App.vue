@@ -51,9 +51,9 @@
         appTitle: 'Awesome App',
         sidebar: false,
         menuItems: [
-          { title: 'connection', path: '/connection/', icon: 'accessible_forward' },
-          { title: 'shoppingcart', path: '/shoppingcart/', icon: 'attach_money' },
-          { title: 'checkout', path: '/checkout/', icon: 'directions_run' }
+          { title: 'connection', path: '/connection', icon: 'accessible_forward' },
+          { title: 'shoppingcart', path: '/shoppingcart', icon: 'attach_money' },
+          { title: 'checkout', path: '/checkout', icon: 'directions_run' }
         ]
       }
     }
